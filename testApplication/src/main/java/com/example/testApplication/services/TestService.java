@@ -8,7 +8,7 @@ import com.example.testApplication.DTOs.ResponseDTO;
 import com.example.testApplication.DTOs.ResultDTO;
 import com.example.testApplication.DTOs.TestDTO;
 import com.example.testApplication.entities.Question;
-import com.example.testApplication.entities.Result;
+// import com.example.testApplication.entities.Result;
 import com.example.testApplication.entities.Test;
 import com.example.testApplication.entities.UserTestSession;
 
