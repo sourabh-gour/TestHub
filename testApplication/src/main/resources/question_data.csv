@@ -1,0 +1,9 @@
+questionText,optionA,optionB,optionC,optionD,correctOption,testId
+What is Java?,A programming language,A coffee type,A database,A server,A,1
+What is JVM?,Java Virtual Machine,Java Version Manager,Java Value Method,Joint Virtual Method,A,1
+Which annotation marks a Spring Boot app?,@SpringBootApplication,@EnableApp,@Spring,@AppMain,A,2
+What is Dependency Injection?,Design pattern,Coffee brewing,Database operation,Frontend logic,A,2
+What does SQL stand for?,Structured Query Language,Simple Query Language,Sequential Query Language,System Query Language,A,3
+What is a primary key?,Unique column,Foreign key,Duplicate value,Header,A,3
+What is CSRF?,Cross Site Request Forgery,Cross Script Render Fail,Client Side Request Failure,Cyber Security Resource Filter,A,4
+Which is a security layer?,Spring Security,Spring Boot,Spring Web,Spring Core,A,4

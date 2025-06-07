@@ -1,0 +1,5 @@
+subjectTitle,duration,isActive,scheduledAt
+Java Basics,30,true,2025-04-15T10:00:00
+Spring Boot Quiz,45,true,2025-04-16T14:30:00
+Database Fundamentals,60,false,2025-04-18T09:00:00
+Web Security,40,true,2025-04-20T11:00:00
