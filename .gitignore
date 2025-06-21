@@ -1,0 +1,7 @@
+
+target/
+
+*.log
+
+.env
+C:\Users\DELL\Downloads\testApplication\testApplication\src\main\resources\application.properties
